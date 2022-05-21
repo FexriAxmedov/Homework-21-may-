@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace task4
 {
     class Program
     {
         static void Main(string[] args)
         {
-        //3)Istifadəçidən alınacaq iki ədəd arasındakı  tək ədədlərin cəmini tapan və bu cəmi ekranda göstərən
+        //4)Istifadəçidən alınacaq iki ədəd arasındakı  tək ədədlərin cəmini tapan və bu cəmi ekranda göstərən
         yuxari:
             Console.Write("1-ci ededi daxil edin: ");
             string a = Console.ReadLine();
